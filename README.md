@@ -56,6 +56,7 @@ sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
 
 OUTPUT
+
 ![image](https://user-images.githubusercontent.com/121303741/229699516-7c113f9a-9577-4557-9544-9c3841672e09.png)
 
 
