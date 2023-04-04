@@ -80,7 +80,6 @@ OUTPUT
 
 ![image](https://user-images.githubusercontent.com/121303741/229699773-c95a9165-10b8-414f-bfbd-ee41f16427c8.png)
 
-![image](https://user-images.githubusercontent.com/121303741/229699791-ed8a7ad1-a5d5-4c20-a2a1-29548963e490.png)
 
 Result
 
